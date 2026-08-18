@@ -2,9 +2,9 @@
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663103287173/xikMmoZWJaxeDfFl.jpg" alt="Developer Workstation Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
-<h>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hanzala+Saqib+👋;Full+Stack+Software+Engineer;MERN+Stack+Specialist;Building+Scalable+Cloud+Systems" alt="Typing SVG" />
-</h>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hanzalasqb&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -21,7 +21,7 @@
 <table align="center">
   <tr>
     <td align="center" width="30%">
-      <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663103287173/UfagNZZPsqHDGqTt.jpg" alt="Hanzala Saqib" width="160px" style="border-radius: 50%;" />
+      <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663103287173/aHNaWxKPKodqdhtG.png" alt="Hanzala Saqib" width="180px" style="border-radius: 12px;" />
     </td>
     <td width="70%">
       - 🔭 <b>Current Focus:</b> Building high-performance MERN stack applications, scalable RESTful APIs, and cloud-native solutions.<br/><br/>
@@ -68,12 +68,12 @@
 ### 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Contributions Snake Animation -->
