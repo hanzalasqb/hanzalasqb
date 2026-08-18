@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663103287173/xikMmoZWJaxeDfFl.jpg" alt="Developer Workstation Banner" width="100%" style="border-radius: 8px;" />
+</p>
+
 <h>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hanzala+Saqib+👋;Full+Stack+Software+Engineer;MERN+Stack+Specialist;Building+Scalable+Cloud+Systems" alt="Typing SVG" />
 </h>
@@ -6,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=hanzalasqb&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/hanzalasqb?tab=followers"><img src="https://img.shields.io/github/followers/hanzalasqb?color=00f0ff&style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
   <a href="https://www.linkedin.com/in/hanzalasqb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://hanzala-svg.github.io/hanzala-portfolio-site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-FF5722?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:hanzala7824@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -13,10 +18,19 @@
 
 ### 💻 About Me
 
-- 🔭 **Current Focus:** Building high-performance MERN stack applications, scalable RESTful APIs, and cloud-native solutions.
-- 💡 **Core Philosophy:** Clean architecture, modular design, and writing production-ready code that solves real-world business challenges.
-- 🚀 **Professional Mission:** Delivering robust digital products that bridge exceptional user experiences with secure, enterprise-grade backend infrastructure.
-- 📍 **Based in:** Lahore, Pakistan | Available for remote & global opportunities.
+<table align="center">
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663103287173/UfagNZZPsqHDGqTt.jpg" alt="Hanzala Saqib" width="160px" style="border-radius: 50%;" />
+    </td>
+    <td width="70%">
+      - 🔭 <b>Current Focus:</b> Building high-performance MERN stack applications, scalable RESTful APIs, and cloud-native solutions.<br/><br/>
+      - 💡 <b>Core Philosophy:</b> Clean architecture, modular design, and writing production-ready code that solves real-world business challenges.<br/><br/>
+      - 🚀 <b>Professional Mission:</b> Delivering robust digital products that bridge exceptional user experiences with secure, enterprise-grade backend infrastructure.<br/><br/>
+      - 📍 <b>Based in:</b> Lahore, Pakistan | Available for remote & global opportunities.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,7 +56,7 @@
 
 ### 🌟 Featured Flagship Projects
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Tech Stack | Repository / Demo |
 | :--- | :--- | :--- | :--- |
 | **Fashion E-Commerce Store** | Modern responsive e-commerce storefront with dynamic catalog and promotional banners. | HTML, CSS, JavaScript | [View Repo](https://github.com/hanzalasqb/Fashion-Ecommerce-Store) |
 | **AI Fake News Detector** | Intelligent verification web app supporting text input, URL scraping, and RSS analysis. | React, FastAPI, Python | [View Repo](https://github.com/hanzalasqb/fake-news-detection-system) |
@@ -73,8 +87,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hanzalasqb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hanzala-svg.github.io/hanzala-portfolio-site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:hanzala7824@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="http://13.51.166.37:3000/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/hanzalasqb" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
