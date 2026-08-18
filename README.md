@@ -65,27 +65,13 @@
 
 ---
 
-### 📊 GitHub Analytics & Contributions
+### 📊 Professional Proficiency
 
-<div align="center">
-  <a href="https://github.com/hanzalasqb">
-    <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
-  </a>
-  <a href="https://github.com/hanzalasqb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=radical" alt="Top Languages" height="192px" />
-  </a>
-  <br/>
-  <a href="https://github.com/hanzalasqb">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=radical" alt="GitHub Streak" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Contributions Snake Animation (Will appear once workflow completes) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+I specialize in building **end-to-end digital solutions** with a focus on scalability and performance. My workflow involves:
+- **Requirement Analysis:** Translating business needs into technical specifications.
+- **Architectural Design:** Implementing clean, maintainable, and scalable codebases.
+- **Continuous Integration:** Utilizing GitHub Actions for automated testing and deployment.
+- **Performance Optimization:** Ensuring lightning-fast load times and smooth user interactions.
 
 ---
 
@@ -98,4 +84,4 @@
   <a href="https://github.com/hanzalasqb" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-
+> *"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra*
