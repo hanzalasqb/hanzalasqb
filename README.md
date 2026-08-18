@@ -67,13 +67,22 @@
 
 ### 📊 GitHub Analytics & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=dark)
+<div align="center">
+  <a href="https://github.com/hanzalasqb">
+    <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
+  </a>
+  <a href="https://github.com/hanzalasqb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=radical" alt="Top Languages" height="192px" />
+  </a>
+  <br/>
+  <a href="https://github.com/hanzalasqb">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=radical" alt="GitHub Streak" width="100%" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Contributions Snake Animation -->
+<!-- Contributions Snake Animation (Will appear once workflow completes) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
