@@ -67,14 +67,14 @@
 
 ### 📊 GitHub Analytics & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=dark" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
 <!-- Contributions Snake Animation -->
 <p align="center">
