@@ -67,12 +67,9 @@
 
 ### 📊 GitHub Analytics & Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=dark" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanzalasqb&theme=dark)
 
 <br/>
 
