@@ -24,10 +24,10 @@
       <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663103287173/aHNaWxKPKodqdhtG.png" alt="Hanzala Saqib" width="180px" style="border-radius: 12px;" />
     </td>
     <td width="70%">
-      - 🔭 <b>Current Focus:</b> Building high-performance MERN stack applications, scalable RESTful APIs, and cloud-native solutions.<br/><br/>
-      - 💡 <b>Core Philosophy:</b> Clean architecture, modular design, and writing production-ready code that solves real-world business challenges.<br/><br/>
-      - 🚀 <b>Professional Mission:</b> Delivering robust digital products that bridge exceptional user experiences with secure, enterprise-grade backend infrastructure.<br/><br/>
-      - 📍 <b>Based in:</b> Lahore, Pakistan | Available for remote & global opportunities.
+      🔭 <b>Current Focus:</b> Building high-performance MERN stack applications, scalable RESTful APIs, and cloud-native solutions.<br/><br/>
+      💡 <b>Core Philosophy:</b> Clean architecture, modular design, and writing production-ready code that solves real-world business challenges.<br/><br/>
+      🚀 <b>Professional Mission:</b> Delivering robust digital products that bridge exceptional user experiences with secure, enterprise-grade backend infrastructure.<br/><br/>
+      📍 <b>Based in:</b> Lahore, Pakistan | Available for remote & global opportunities.
     </td>
   </tr>
 </table>
