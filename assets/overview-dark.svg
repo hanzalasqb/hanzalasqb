@@ -37,12 +37,12 @@
 </g>
 <g class="in" style="animation-delay:630ms">
 <svg x="25" y="183" width="16" height="16" viewBox="0 0 16 16"><path fill="#a78bfa" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/></svg>
-<text x="52" y="196" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Active days (past year)</text>
-<text x="275" y="196" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f0f6fc" text-anchor="end">28</text>
+<text x="52" y="196" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Commits (past year)</text>
+<text x="275" y="196" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f0f6fc" text-anchor="end">36</text>
 </g>
 <circle cx="385" cy="130" r="46" fill="none" stroke="#21262d" stroke-width="9"/>
 <circle class="ring" style="--c:289" cx="385" cy="130" r="46" fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" stroke-dasharray="289" stroke-dashoffset="289" transform="rotate(-90 385 130)"/>
-<text x="385" y="132" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#f0f6fc" text-anchor="middle">115</text>
+<text x="385" y="132" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#f0f6fc" text-anchor="middle">53</text>
 <text x="385" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">contributions</text>
 <text x="385" y="206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle">in the past year</text>
 </svg>
