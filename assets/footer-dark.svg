@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Let's build something intelligent together">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<style>
+.w1{animation:w 16s linear infinite}.w2{animation:w 11s linear infinite reverse}
+@keyframes w{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+.t{opacity:0;animation:in 1s ease-out .2s forwards}@keyframes in{to{opacity:1}}
+</style>
+<g class="t">
+<text x="600" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e6edf3" text-anchor="middle">Let's build something intelligent together</text>
+<text x="600" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e" text-anchor="middle">Full Stack AI Developer · Open to remote and international roles</text>
+</g>
+<path class="w1" d="M0 168 Q150 152 300 168 Q450 184 600 168 Q750 152 900 168 Q1050 184 1200 168 Q1350 152 1500 168 Q1650 184 1800 168 Q1950 152 2100 168 Q2250 184 2400 168 L2400 220 L0 220 Z" fill="url(#g)" opacity="0.35"/>
+<path class="w2" d="M0 184 Q150 172 300 184 Q450 196 600 184 Q750 172 900 184 Q1050 196 1200 184 Q1350 172 1500 184 Q1650 196 1800 184 Q1950 172 2100 184 Q2250 196 2400 184 L2400 220 L0 220 Z" fill="url(#g)" opacity="0.85"/>
+</svg>

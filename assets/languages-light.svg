@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-label="Most used languages">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient>
+<clipPath id="card"><rect width="480" height="230" rx="12"/></clipPath>
+</defs>
+<style>
+.in{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.ring{animation:ring 1.4s ease-out forwards}
+@keyframes ring{from{stroke-dashoffset:var(--c)}to{stroke-dashoffset:0}}
+.bar{animation:bar 1s ease-out forwards;transform-origin:left;transform:scaleX(0)}
+@keyframes bar{to{transform:scaleX(1)}}
+</style>
+<rect x="0.5" y="0.5" width="479" height="229" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect width="480" height="4" fill="url(#g)" clip-path="url(#card)"/>
+<text x="25" y="40" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328">Most used languages</text>
+<text x="25" y="60" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#656d76">by code size across 14 public projects</text>
+<clipPath id="bar"><rect x="25" y="78" width="430" height="10" rx="5"/></clipPath><g class="bar" clip-path="url(#bar)"><rect x="25" y="78" width="430" height="10" fill="#eaeef2"/><rect x="25.0" y="78" width="381.5" height="10" fill="#3178c6"/><rect x="406.5" y="78" width="22.4" height="10" fill="#3572A5"/><rect x="428.9" y="78" width="15.8" height="10" fill="#f1e05a"/><rect x="444.7" y="78" width="4.8" height="10" fill="#663399"/><rect x="449.5" y="78" width="2.0" height="10" fill="#e34c26"/><rect x="451.2" y="78" width="2.0" height="10" fill="#f34b7d"/><rect x="452.4" y="78" width="2.0" height="10" fill="#a91e50"/><rect x="453.4" y="78" width="2.0" height="10" fill="#239dad"/></g>
+<g class="in" style="animation-delay:200ms"><circle cx="31" cy="117" r="6" fill="#3178c6"/><text x="45" y="122" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">TypeScript <tspan fill="#656d76" font-size="13">88.7%</tspan></text></g>
+<g class="in" style="animation-delay:290ms"><circle cx="251" cy="117" r="6" fill="#3572A5"/><text x="265" y="122" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">Python <tspan fill="#656d76" font-size="13">5.2%</tspan></text></g>
+<g class="in" style="animation-delay:380ms"><circle cx="31" cy="144" r="6" fill="#f1e05a"/><text x="45" y="149" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">JavaScript <tspan fill="#656d76" font-size="13">3.7%</tspan></text></g>
+<g class="in" style="animation-delay:470ms"><circle cx="251" cy="144" r="6" fill="#663399"/><text x="265" y="149" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">CSS <tspan fill="#656d76" font-size="13">1.1%</tspan></text></g>
+<g class="in" style="animation-delay:560ms"><circle cx="31" cy="171" r="6" fill="#e34c26"/><text x="45" y="176" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">HTML <tspan fill="#656d76" font-size="13">0.4%</tspan></text></g>
+<g class="in" style="animation-delay:650ms"><circle cx="251" cy="171" r="6" fill="#f34b7d"/><text x="265" y="176" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">C++ <tspan fill="#656d76" font-size="13">0.3%</tspan></text></g>
+<g class="in" style="animation-delay:740ms"><circle cx="31" cy="198" r="6" fill="#a91e50"/><text x="45" y="203" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">EJS <tspan fill="#656d76" font-size="13">0.2%</tspan></text></g>
+<g class="in" style="animation-delay:830ms"><circle cx="251" cy="198" r="6" fill="#239dad"/><text x="265" y="203" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#424a53">Typst <tspan fill="#656d76" font-size="13">0.2%</tspan></text></g>
+</svg>

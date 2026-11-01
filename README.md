@@ -149,12 +149,18 @@ AI monitoring for embedded systems: ESP32 firmware streams sensor data over MQTT
 - 🌱 Learning system design, vector databases (pgvector, Qdrant) and LLM evaluation
 - 🤝 Open to **Full Stack / AI Engineer** roles and freelance projects
 
-## 📊 GitHub stats
+## 📊 GitHub at a glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hanzalasqb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzalasqb&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/main/assets/overview-dark.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/main/assets/overview-light.svg" alt="GitHub overview: public projects, live demos, CI/CD and contributions" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/main/assets/languages-dark.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/main/assets/languages-light.svg" alt="Most used languages" />
+</picture>
 
 </div>
 
@@ -162,6 +168,13 @@ AI monitoring for embedded systems: ESP32 firmware streams sensor data over MQTT
 
 <div align="center">
 
-💬 **Let's build something intelligent together.** Reach me on [LinkedIn](https://www.linkedin.com/in/hanzalasqb) or by [email](mailto:hanzala7824@gmail.com).
+<a href="https://www.linkedin.com/in/hanzalasqb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://hanzala-svg.github.io/hanzala-portfolio-site/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:hanzala7824@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/main/assets/footer-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/hanzalasqb/hanzalasqb/main/assets/footer-light.svg" alt="Let's build something intelligent together" />
+</picture>
 
 </div>
