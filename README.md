@@ -6,8 +6,8 @@
 
 I build production-ready products that put AI to work: tool-calling LLM agents, RAG systems, AI-powered e-commerce and real-time dashboards for embedded systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hanzalasqb-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzalasqb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?logo=googlechrome&logoColor=white)](https://hanzala-svg.github.io/hanzala-portfolio-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hanzalasaqib-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzalasaqib)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?logo=googlechrome&logoColor=white)](https://hanzalasqb.github.io/)
 [![Email](https://img.shields.io/badge/Email-hanzala7824%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hanzala7824@gmail.com)
 
 📍 Lahore, Pakistan · 🌍 Open to remote and international roles
@@ -168,8 +168,8 @@ AI monitoring for embedded systems: ESP32 firmware streams sensor data over MQTT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hanzalasqb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://hanzala-svg.github.io/hanzala-portfolio-site/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/hanzalasaqib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://hanzalasqb.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:hanzala7824@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <picture>
