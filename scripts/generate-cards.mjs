@@ -16,21 +16,28 @@ async function rest(path) {
   return r.json();
 }
 
-async function contributions() {
-  if (TOKEN) {
-    const r = await fetch("https://api.github.com/graphql", { method: "POST", headers: { ...headers, "Content-Type": "application/json" }, body: JSON.stringify({ query: `query($l:String!){user(login:$l){contributionsCollection{totalCommitContributions contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}`, variables: { l: USER } }) });
-    const j = await r.json().catch(() => ({}));
-    const c = j?.data?.user?.contributionsCollection;
-    if (c) {
-      const days = c.contributionCalendar.weeks.flatMap((w) => w.contributionDays.map((d) => d.contributionCount));
-      return { total: c.contributionCalendar.totalContributions, commits: c.totalCommitContributions, activeDays: days.filter((n) => n > 0).length };
-    }
-    console.warn("GraphQL unavailable, falling back to the public contribution calendar");
-  }
+// The public contribution calendar is what the profile itself shows (it also counts private
+// contributions when they are enabled), so it is the source for the total; GraphQL adds commits.
+async function calendar() {
   const html = await (await fetch(`https://github.com/users/${USER}/contributions`, { headers: { "User-Agent": "profile-cards" } })).text();
   const total = Number((html.match(/([\d,]+)\s+contributions?\s+in the last year/) || [, "0"])[1].replace(/,/g, ""));
-  const activeDays = [...html.matchAll(/data-level="([1-4])"/g)].length;
-  return { total, commits: null, activeDays };
+  return { total, activeDays: [...html.matchAll(/data-level="([1-4])"/g)].length };
+}
+
+async function contributions() {
+  const cal = await calendar().catch(() => ({ total: 0, activeDays: 0 }));
+  let commits = null, total = cal.total, activeDays = cal.activeDays;
+  if (TOKEN) {
+    const r = await fetch("https://api.github.com/graphql", { method: "POST", headers: { ...headers, "Content-Type": "application/json" }, body: JSON.stringify({ query: `query($l:String!){user(login:$l){contributionsCollection{totalCommitContributions contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}`, variables: { l: USER } }) });
+    const c = (await r.json().catch(() => ({})))?.data?.user?.contributionsCollection;
+    if (c) {
+      const days = c.contributionCalendar.weeks.flatMap((w) => w.contributionDays.map((d) => d.contributionCount));
+      commits = c.totalCommitContributions;
+      total = Math.max(total, c.contributionCalendar.totalContributions);
+      activeDays = Math.max(activeDays, days.filter((n) => n > 0).length);
+    } else console.warn("GraphQL unavailable; using the public calendar only");
+  }
+  return { total, commits, activeDays };
 }
 
 async function collect() {
